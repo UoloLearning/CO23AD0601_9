@@ -1,4 +1,4 @@
-no_of_assignements = 10
-no_of_empolyees = 4
-data_sheet = no_of_assignements//no_of_empolyees
+no_of_assignments = 10
+no_of_employees = 4
+data_sheet = no_of_assignments//no_of_employees
 print(data_sheet)
